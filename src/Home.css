@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(17, 146, 232);
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+}
+
+.site-header {
+  height: 15vh;
+  background-color: rgb(186, 154, 154);
+  display: flex;
+  align-items: flex-start;
+}
