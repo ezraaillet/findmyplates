@@ -1,8 +1,15 @@
+body {
+  background-color: bisque;
+}
+
 h1 {
+  font-family: "Jolly Lodger", cursive;
   color: rgb(17, 146, 232);
   margin: 0;
   padding: 0;
   font-size: 50px;
+  margin-top: 40px;
+  margin-left: 50px;
 }
 
 .site-header {
