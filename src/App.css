@@ -24,4 +24,25 @@ div.result {
   border-radius: 15px;
   background-image: url("./Images/Alaska-license-plate.JPG");
   background-size: cover;
+  display: grid;
+}
+
+div.details {
+  width: 48vw;
+  margin-top: 30px;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+}
+
+div.text {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.result-group {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 500px;
 }
