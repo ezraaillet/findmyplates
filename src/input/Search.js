@@ -11,7 +11,7 @@ export default function Search() {
 
             <InputGroup className="mb-3">
                 <DropdownButton
-                    variant="outline-secondary"
+                    variant="secondary"
                     title="State"
                     id="input-group-dropdown-1"
                 >

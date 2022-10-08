@@ -1,7 +1,10 @@
 export default function Details() {
     return (
         <>
-            DETAILS
+            <div className="detail">
+                DETAILS
+            </div>
+
         </>
     )
 }
